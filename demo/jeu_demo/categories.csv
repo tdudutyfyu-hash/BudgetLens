@@ -1,0 +1,23 @@
+id_categorie;nom;type_categorie;id_parent
+1;Alimentation;DEPENSE;
+2;Courses;DEPENSE;1
+3;Restaurants;DEPENSE;1
+4;Transport;DEPENSE;
+5;Carburant;DEPENSE;4
+6;Transports en commun;DEPENSE;4
+7;Entretien véhicule;DEPENSE;4
+8;Logement;DEPENSE;
+9;Loyer;DEPENSE;8
+10;Électricité et eau;DEPENSE;8
+11;Internet;DEPENSE;8
+12;Santé;DEPENSE;
+13;Pharmacie;DEPENSE;12
+14;Consultations;DEPENSE;12
+15;Loisirs;DEPENSE;
+16;Cinéma;DEPENSE;15
+17;Abonnements;DEPENSE;15
+18;Études;DEPENSE;
+19;Livres et fournitures;DEPENSE;18
+20;Salaire;REVENU;
+21;Bourse;REVENU;
+22;Autres revenus;REVENU;

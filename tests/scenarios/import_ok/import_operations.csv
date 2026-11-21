@@ -1,0 +1,4 @@
+ref;nature;date_realisation;libelle;montant_total_ct;compte_source;compte_destination;tiers
+1;DEPENSE;2026-12-01;Cinéma;8000;Portefeuille;;
+2;REVENU;2026-12-02;Prime import;30000;;Banque Populaire;
+9;DEPENSE;2026-11-10;courses marjane;20000;Banque Populaire;;

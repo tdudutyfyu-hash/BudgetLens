@@ -1,0 +1,4 @@
+id_modele;nom;nature;libelle;montant_total_ct;id_compte_source;id_compte_destination;id_tiers
+1;Loyer;DEPENSE;Loyer mensuel;300000;1;;5
+2;Abonnement sport;DEPENSE;Abonnement salle de sport;15000;2;;
+3;Plein d'essence;DEPENSE;Plein d'essence;30000;1;;3

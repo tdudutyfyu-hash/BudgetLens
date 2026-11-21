@@ -1,0 +1,4 @@
+id_compte;nom;type_compte;solde_initial_ct;date_solde_initial;seuil_minimal_ct;nom_banque;reference_compte
+1;Banque Populaire;BANQUE;1200000;2026-09-01;100000;Banque Populaire;MA-000-1234
+2;Espèces;ESPECES;80000;2026-09-01;10000;;
+3;Épargne;BANQUE;500000;2026-09-01;;CIH Bank;MA-000-9876

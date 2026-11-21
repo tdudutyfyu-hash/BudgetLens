@@ -1,0 +1,9 @@
+/bin/
+/data/
+/backups/
+/demo/travail/
+/tests/tmp/
+*.exe
+*.obj
+*.o
+budgetlens.verrou

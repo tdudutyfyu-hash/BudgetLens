@@ -1,0 +1,5 @@
+ref;nature;date_realisation;libelle;montant_total_ct;compte_source;compte_destination;tiers
+1;DEPENSE;2026-11-12;Dîner entre amis;12000;Espèces;;
+2;DEPENSE;2026-11-13;Médicaments;5500;Banque Populaire;;Pharmacie Atlas
+3;REVENU;2026-11-13;Bourse complémentaire;50000;;Épargne;
+4;DEPENSE;2026-11-12;Séance de cinéma;11000;Espèces;;Cinéma Rif

@@ -1,0 +1,14 @@
+element;valeur;fnv1a64
+FORMAT;1;
+GENERATION;1;
+comptes.csv;3;aa6c599590ec78f5
+categories.csv;22;3561282c0e969ae3
+tiers.csv;8;33bce8650604f63e
+vehicules.csv;1;55bddbedf3461d3a
+budgets_mensuels.csv;8;22b1ec297e7b61e4
+modeles_operations.csv;3;57fc5152e3def358
+lignes_modeles.csv;3;0198e4ebc64685a5
+recurrences.csv;2;71c7b4aee7118fff
+operations.csv;42;96e65eca87da799d
+lignes_operations.csv;41;2bcc2d50e8db17b6
+metadata.csv;0;320f452d76d15c10

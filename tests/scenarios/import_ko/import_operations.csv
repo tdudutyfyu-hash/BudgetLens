@@ -1,0 +1,4 @@
+ref;nature;date_realisation;libelle;montant_total_ct;compte_source;compte_destination;tiers
+1;DEPENSE;2026-12-01;Catégorie inconnue;1000;Portefeuille;;
+2;DEPENSE;2026-12-01;Compte inconnu;1000;Fantôme;;
+3;DEPENSE;2027-06-01;Date future;1000;Portefeuille;;

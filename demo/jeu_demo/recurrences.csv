@@ -1,0 +1,3 @@
+id_recurrence;id_modele;frequence;date_debut;date_fin;jour_mensuel_souhaite;active;date_prochaine_echeance
+1;1;MENSUELLE;2026-09-01;;1;1;2026-12-01
+2;2;HEBDOMADAIRE;2026-10-26;;;1;2026-11-16
